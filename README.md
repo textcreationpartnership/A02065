@@ -32,9 +32,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
+
+1. ¶ The true reporte of the forme and shape of a monstrous childe, borne at Muche Horkesleye, a village three myles from Colchester, in the Countye of Essex, the .xxi. daye of Apryll in this yeare. 1562.
 ON Tuysday being the .xxi. day of Apryll, in this yeare of our Lorde God a thousand fyue hundred thr
 #####Back#####
-The true reporte of the forme and shape of a monstrous childe, borne at Muche Horkesleye a village t
+¶ Imprinted at London in Fletestrete nere to S. Dunstons church by Thomas Marshe.
 **Types of content**
 
   * There are 50 **verse** lines!
